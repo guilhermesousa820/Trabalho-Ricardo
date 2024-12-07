@@ -11,6 +11,8 @@ Descrição do Projeto
 Este projeto consiste em uma aplicação interativa desenvolvida em Flutter, com três jogos simples: Jokenpô, Par ou Ímpar, e Cara ou Coroa. 
 A aplicação foi criada para fornecer uma experiência divertida ao usuário, permitindo jogar esses jogos com a máquina.
 
+Baixe e inatale o aplicativo no seu android
+
 Como Executar no FlutLab
 
 1. Acesse o FlutLab: Abra o navegador e acesse [FlutLab](https://flutlab.io/).
